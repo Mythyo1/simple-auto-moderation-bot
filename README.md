@@ -9,8 +9,14 @@ node index.js
 ```
 ### .env 
 rename .env.example = .env
+
+
 token=tokenbot
+
+
 prefix=prefixbot
+
+
 ### Support 
 [Discordserver](https://discord.gg/Eh9thsa)
 ### Developer
