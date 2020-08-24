@@ -1,0 +1,1 @@
+# -simple-auto-moderation-bot
