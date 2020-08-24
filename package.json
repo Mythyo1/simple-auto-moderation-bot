@@ -1,0 +1,25 @@
+
+{
+  "name": "simple-auto-moderation-bot",
+  "version": "1.0.0",
+  "description": "simple-auto-moderation-bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Team-Sakura/simple-auto-moderation-bot.git"
+  },
+  "author": "XDENIX",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Team-Sakura/simple-auto-moderation-bot/issues"
+  },
+  "homepage": "https://github.com/Team-Sakura/simple-auto-moderation-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "dotenv": "^8.2.0",
+     "fs": "0.0.1-security"
+  }
+}
