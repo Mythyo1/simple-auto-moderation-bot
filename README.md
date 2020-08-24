@@ -1,6 +1,6 @@
 # simple-auto-moderation-bot
 ### Как это юзать ?
-Надо скачать открыть консоль написать туда
+V console 
 ```js
 npm i discord.js
 npm i fs
