@@ -1,7 +1,5 @@
 const { Client,Collection } = require('discord.js');
-const express = require('express');
 const fs =require('fs');
-const app = express();
 require('dotenv').config();
 const bot = new Client({disableMentions: "everyone"});
 bot.commands = new Collection()
