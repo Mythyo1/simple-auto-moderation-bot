@@ -1,10 +1,8 @@
 # simple-auto-moderation-bot
 ### Как это юзать ?
-V console 
+Напигите в консоли
 ```js
-npm i discord.js
-npm i fs
-npm i dotenv
+npm i 
 node index.js
 ```
 ### .env 
@@ -20,8 +18,6 @@ prefix=prefixbot
 ### Support 
 [Discordserver](https://discord.gg/Eh9thsa)
 ### Developer
-КотикD3V#0001 Owner
-
-𝑅 🍬𝐹 𝐿#5705 Owner 
-
-MrLivixx#0232 Owner
+КотикD3V#0001 Owner<br>
+𝑅 🍬𝐹 𝐿#5705 Owner<br>
+MrLivixx#0232 Owner<br>
