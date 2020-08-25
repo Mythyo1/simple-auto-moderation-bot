@@ -1,6 +1,6 @@
 # simple-auto-moderation-bot
 ### Как это юзать ?
-Напигите в консоли
+Напишите в консоли
 ```js
 npm i 
 node index.js
